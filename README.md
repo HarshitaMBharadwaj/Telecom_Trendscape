@@ -4,6 +4,8 @@
 
 This repository features a sophisticated PowerBI dashboard for telecom data, leveraging advanced analytics for in-depth trend analysis. The goal is to enhance data understanding and streamline insights communication, offering a visually compelling interface for users to extract meaningful conclusions from the dataset.
 
+![tc](tc_ss.png)
+
 ## Dataset
 
 The dataset contains 33 variables, including Customer, Gender, Age, Married, Number of Dependents, City, Zip Code, Latitude, Longitude, Number of referrals, Tenure in Months, Offer, Phone Service, Avg Monthly GB Download, Online Security, Online Backup, Device Protection Plan, Premium Tech Support, Streaming TV, Streaming Music, Unlimited Data, Contract, Paperless Billing, Payment Method, Monthly Charges, Total Charges, Total Refunds, Total Extra Data Charges, Total Long-Distance Charges, Total Revenue, Customer, Churn Category, Churn Reason.
