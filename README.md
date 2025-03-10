@@ -1,8 +1,8 @@
-# Telecom Data Analysis PowerBI Dashboard
+# Telecom Data Analysis Tableau Dashboard
 
 ## Overview
 
-This repository features a sophisticated PowerBI dashboard for telecom data, leveraging advanced analytics for in-depth trend analysis. The goal is to enhance data understanding and streamline insights communication, offering a visually compelling interface for users to extract meaningful conclusions from the dataset.
+This repository features a sophisticated Tableau dashboard for telecom data, leveraging advanced analytics for in-depth trend analysis. The goal is to enhance data understanding and streamline insights communication, offering a visually compelling interface for users to extract meaningful conclusions from the dataset.
 
 ![tc](tc_ss.png)
 
